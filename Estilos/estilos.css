@@ -24,7 +24,7 @@ body{
 
 #CuadroA{
 margin:auto;
-width:5700px;
+width:700px;
 height:200px;
 padding:100;
 margin-left:50px;
@@ -34,8 +34,8 @@ background-color:red;
 
 #CuadroB{
 margin:9px;
-width:220px;
-height:380px;
+width:120px;
+height:280px;
 background-color:blue; 
 float:right;
 padding:3px;
