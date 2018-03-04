@@ -21,80 +21,109 @@ body{
 	color:aqua;
 }
 
+section#main{
 
-#CuadroA{
-margin:auto;
-width:500px;
-height:300px;
-padding:100;
-margin-left:50px;
-background-color:red;  
-                                                            
-}
-
-#CuadroB{
-margin:9px;
-width:120px;
-height:280px;
-background-color:blue; 
-float:right;
-padding:3px;
-                                                 
-}
-
-#CuadroC{
-margin:9px;
-width:120px;
-height:280px;
-background-color:#FFD2D2;
-float:left; 
-padding:3px;                                                  
-}
-
-#CuadroD{
-margin:9px 47px 9px 0px;
-width:120px;
-height:280px;
-background-color:green;
-float:right;                                                             
+	width:1250px;
+	
 }
 
 
-#CuadroE{
-
-margin:20px 0px 0px 50px;
-width:500px;
-height:300px;
-background-color:#22F3EC; 
+section#primero{
+	margin:auto;
+	width:500px;
+	height:400px;
+	padding:100;
+	background-color:#22BDFF;                   
 }
 
 
-#Cuadro1{
-margin:9px;
-width:120px;
-height:280px;
-background-color:gray; 
-float:right;
-padding:3px;
-                                                 
+section#segundo{
+	margin:auto;
+	width:500px;
+	height:300px;
+	padding:100;
+	margin-top:10px;
+	background-color:red;
+	
 }
 
-#Cuadro2{
-margin:9px;
-width:120px;
-height:280px;
-background-color:#45F322;
-float:left; 
-padding:3px;                                                  
+article#primero{
+	margin:9px;
+	width:120px;
+	height:280px;
+	background-color:blue; 
+	float:right;
+	padding:3px;
 }
 
-#Cuadro3{
-margin:9px 47px 9px 0px;
-width:120px;
-height:280px;
-background-color:green;
-float:right;                                                             
+article#segundo{
+	margin:9px;
+	width:120px;
+	height:280px;
+	background-color:#FFD2D2;
+	float:left; 
+	padding:3px;  
+}
+
+article#tercero{
+	margin:9px 47px 9px 0px;
+	width:120px;
+	height:280px;
+	background-color:green;
+	float:right; 
 }
 
 
+
+
+section#cuadro{
+	margin:auto;
+	width:500px;
+	height:300px;
+	background-color:#80FFE4; 
+	margin-top:10px;
+	
+}
+
+article#cuarto{
+	margin:9px;
+	width:120px;
+	height:280px;
+	background-color:gray; 
+	float:right;
+	padding:3px;
+}
+
+article#quinto{
+	margin:9px;
+	width:120px;
+	height:280px;
+	background-color:#45F322;
+	float:left; 
+	padding:3px;
+}
+
+
+article#sexto{
+	margin:9px 47px 9px 0px;
+	width:120px;
+	height:280px;
+	background-color:green;
+	float:right; 
+}
+
+
+aside{
+	
+	width:300px;
+	min-height:400px;
+	background:blue;
+	float:right;
+
+}
+
+section#Ima{
+	
+	padding-right:10px;
+}
 
