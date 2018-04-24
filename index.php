@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Edrey hernandez Dzib</title>
+<link href="Estilos/estilos.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+
+	<center>
+
+	<header>
+		<h1>EDREY HERNApNDEZ DZIB</h1>
+	</header>
+	<nav>
+		<li>CORREO</li>
+		<li>HOBIES</li>
+		<li>CARRERA</li>
+		<li>DATOS</li>
+	</nav>
+	<img src="imagenes/imagen.jpg" widht="500" height="500" />
+	<section id="primero">
+		<article>
+			<header>
+				<h1>CORREO</h1>
+				<p class="Verde">160300135@gmail.com - 160300135</p>
+			</header>
+
+			<header>
+				<h1>HOBIE</h1>
+				<p class="Rojo">Jugar futbol, tocar instrumentos(Guitarra, piano, bateria, bajo,Ukulele)</p>
+			</header>
+
+			<header>
+				<h1>CARRERA</h1>
+				<p class="Azul">Ingenieria en Datos e Inteligencia organizacional es una carrera tediosa, pero muy interesante, y con una gran variedad de campo laboral. </p>
+			</header>
+
+			<header>
+				<h1>DATOS</h1>
+				<p class="Aqua"> Me han gustado mucho las materias de programacion, aunque se me dificultan un poco, son muy interesantes; son un reto, por que cuando entre no sabia nada de programacion y poco a poco vas aprendiendo todo.</p>
+				
+			</header>
+
+			<footer>
+				<h1>UNIVERSIDAD DEL CARIBE</h1>
+			</footer>
+		</article>
+	</section>
+
+
+
+
+	<section id="segundo">
+
+		<article id="primero">
+
+			<center>
+			<h1>Estudie en bachilleres</h1>
+			<img src="imagenes/bacho.jpg" widht="70" height="70" />
+			<p>Estuve en bachilleres 2, una de las mejores escuelas del estado.</p>
+			<center>
+		</article>
+
+		<article id="segundo">
+			<h1>La casa de los musicos </h1>
+			<center>La casa de los musicos
+			<img src="imagenes/LDLM.jpeg" widht="70" height="70"/>
+			<p>Buenos maestros y buenas instalciones</p>
+			</center>
+			
+		</article>
+
+
+		<article id="tercero">
+			<center>Universidad del Caribe
+			<img src="imagenes/logotipo.jpg" widht="70" height="50"/>
+			<p>ahora estoy Universidad de caribe, y estudio Ingenieria en datos.</p>
+			</center>
+		</article>
+
+	</section>
+
+
+
+	<section id="cuadro">
+
+		<article id="cuarto">
+
+			<Center>Mùsica
+			<img src="imagenes/maroon5.jpg" widht="78" height="60" />
+			<p>Maroon 5, Es mi grupo favorito desde que estaba en la secundaria.</p>
+			<center>
+			
+		</article>	
+		
+		<article id="quinto">
+			<Center>Hermano
+			<img src="imagenes/Hermano.jpg" widht="70" height="70" />
+			<p>Tengo un hermano llamado "Jezreel", somos gemelos.</p>
+			<center>
+		</article>
+
+
+
+
+		<article id="sexto">
+			<Center>Mi materia favorita en la Uni.
+			<img src="imagenes/programacion.jpg" widht="50" height="50" />
+			<p>Las materias de programacion, son mis materias favoritas.</p>
+			<center>
+		</article>
+
+		
+
+	</section>
+	
+		
+
+
+
+		</center>
+				
+			<div id="login">
+				<center>	
+					<h2>Login</h2>
+					<form method="post" action="login.php">
+				<center>
+					<form method="post" action="login.php">
+						<p>Usuario = alumno</p>
+					<input name="alumno" type="text">
+						<br><br>
+						<p>Contraseña = alumno</p>
+					<input name="alumno" type="password">
+						<br><br>
+					<input type="submit" name="submit" value="Entrar">
+					</form>
+					</center>
+						
+						</div>
+						
+						
+	<footer>
+
+	</footer>
+
+</body> 
+
+</html>
